@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_b0712123cb7c1797325289b606047fecaee29ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_de61c137c489c922e89450ec806b575f075fe5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_f11f1d4bf232c23fc8e5efce786e01516cf806d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_33a1025889904afc8b053af09b0e02d0e7aca0ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5477e7f30e7e6be95841a5135087b511a07e31f1">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_430713fe82b8debc0ab94fb9f0ab17870ce0fd0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_be4cacb89bdfac54592d0b0f6abbbde8484212b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_29f21d420b0c94e6d2cc74bd5abf3096079a3eb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_c30464b0a9c2d0add85a9ee47304a1ebd8e6c889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_f426c1e523d6f5d97e5c4b7a6d9d28323335d525\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_1d3ddaa6e56710b6da8c854b383de5e8b187f939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_73545095c59539fa3f3f6cad2fd0ee94d340ef48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="696921e21a4b93f8623eeb24f7ecca68b098911f">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1c18e1a96036652fa8fc16854b650c975f72c186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0d9c1bd96580bdf1c4f6d71f263f7af01a8931d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_0ebf1b76d8ff1263f8bf5cb4eb851289ca3509b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\yeshen\AndroidDemo\PullToLoadMoreView-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_a3c3e84c445d86991e58320daa07cc04b1f3e0ef\classes.dex" />
+    </item>
+
+</items>
